@@ -1,6 +1,6 @@
 # Login_Page
 
-Introduction:--
+Introduction:--<br>
 This project implements a simple sign-up form using HTML, CSS, and JavaScript. The form allows users to enter their name, email, and password to sign up. It includes basic validation and a password suggestion feature.
 
 Features:--
